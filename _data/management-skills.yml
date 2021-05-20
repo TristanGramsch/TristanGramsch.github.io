@@ -1,0 +1,11 @@
+- name: Project design
+  percentage: 100
+  color: light
+
+- name: Team managment
+  percentage: 40
+  color: success
+
+- name: Docker
+  percentage: 15
+  color: blue
