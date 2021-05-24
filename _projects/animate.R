@@ -1,13 +1,3 @@
----
-name: Animate overdose
-tools: [R]
-image: "/assets/gifs/drug_overdose_animation_region.gif"
-description: A simple R script to animate overdose deaths in the US.
----
-
-Here I animate the evolution of overdose deaths in the US from 2015 to 2020. The data was fetched from CDC's open data warehouse.
-
-```
 # Set working directory
 setwd(paste0("C:/Users/", Sys.info()[["user"]], "/Documents/Prototypes/Animate_overdose"))
 
@@ -28,7 +18,7 @@ death_count_US <- `Overdose_death_count_US_2015-2020` %>%
   filter(Indicator == c("Number of Drug Overdose Deaths", "Number of Deaths")) %>%
   select(State, Year, Month, Period, Indicator, Data.Value) %>%
   pivot_wider(names_from = Indicator, values_from = Data.Value) %>%
-  # Create a proper division of states.  
+  # Create a proper division of states.
   mutate(
     Region = case_when(
       State %in% c("PA", "NY", "VT", "NH", "ME", "MA", "RI", "CT", "NJ", "RI") ~ "Northeast",
@@ -71,7 +61,7 @@ store_animation_state <- ggplot(data = death_count_state %>% filter(State != "US
   geom_point() +
   theme_minimal() +
   scale_x_continuous(labels = scales::comma, breaks = scales::pretty_breaks(n = 2)) +
-  # Separate data points from names.  
+  # Separate data points from names.
   geom_text_repel(direction = "y", seed = 123, box.padding = 0.4) + # Set non-random seed in text repel
   # Animate plot
   transition_time(Year) +
@@ -88,14 +78,3 @@ anim_save(filename = "animations/drug_overdose_animation_region_lq.gif", animati
 # Save state animation
 anim_save(filename = "animations/drug_overdose_animation_state_lq.gif", animation = store_animation_state,
           units = "in", height = 6, width = 6, res = 300, fps = 60, nframes = 300, duration = 12)
-```
-
-# Result
-## Per state animation
-![](/assets/gifs/drug_overdose_animation_state.gif)
-## Per region animation
-![](/assets/gifs/drug_overdose_animation_region.gif)
-
-<p class="text-center">
-{% include elements/button.html link="https://www.cdc.gov/drugoverdose/data/statedeaths.html" text="Learn More" %}
-</p>
