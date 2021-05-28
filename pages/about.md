@@ -10,7 +10,7 @@ press ctrl + shift + z to comment
 <p style="text-align: justify">
 <span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;"> <font size="+2">
 Welcome,
-</font></span><br>
+</font> </span> <br>
 <font size="+1">
 I am Tristán, a data scientist.
 Meaning that I both do machine learning and data architecture development.
