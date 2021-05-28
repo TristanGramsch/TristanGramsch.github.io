@@ -1,18 +1,22 @@
+<!-- Footer is a piece of text at the bottom of every page
+It contains my name.
+It contains social.html, which renders a list of social media I use.
+It used to contain the footer sideways.
+Here we use liquid to define variables.
+And include those variables in the web page.
+Then, we use liquid again to include social.html
+ --->
+ {%- assign theme_name = "portfolYOU" -%}
+ {%- assign theme_repo = "https://github.com/YoussefRaafatNasry/portfolYOU" -%}
+
 <footer class="mt-auto py-3 text-center">
 
   <small class="text-muted mb-2">
-    Coded with care
-    by <strong>{{ site.author.name }}</strong>
-    <br> with the help of
-    <a href = "https://github.com/YoussefRaafatNasry"> portfolYOU </a>
+    Coded with 
+    <a href="{{ theme_repo }}"> {{ theme_name }}</a>
+    by <p style="color:#FF2400"> <strong>{{ site.author.name }}</strong> </p>
   </small>
 
   {% include social.html %}
-
-  {%- assign theme_name = "portfolYOU" -%}
-  {%- assign theme_repo = "https://github.com/YoussefRaafatNasry/portfolYOU" -%}
-  <small id="attribution">
-    theme <a href="{{ theme_repo }}">{{ theme_name }}</a>
-  </small>
 
 </footer>
