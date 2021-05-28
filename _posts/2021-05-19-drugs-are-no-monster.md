@@ -5,6 +5,9 @@ style: fill
 color: primary
 description: A few words on the world we can build
 ---
+Make a point. Make an argument.
+What are you trying to say? 
+
 Drugs are something people don't understand.
 <br> Few have sat to actually think what drugs are.
 <br> What they can do.
@@ -40,3 +43,22 @@ They might want to take a peak at drugs as unproblematic.
 They will understand it better.
 We will understand it better.  
 <br>
+
+I have found a big mountain.
+To end hate against drugs.
+Drugs are not a monster.
+Just chemical structures.
+Well developed institutions treat drugs as if it was a monster.
+Shaming drug users.
+Patronizing people.
+We deserve better.
+We deserve more transparency.
+Better explanations.
+Better data architecture.
+Better repositories.
+Clear accessible knowledge to drugs.
+What they are.
+What they cause.
+Why.
+It's seems the best way to fight stigma.
+To fully know the monster.
