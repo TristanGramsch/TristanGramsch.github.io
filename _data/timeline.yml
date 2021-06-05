@@ -1,9 +1,9 @@
+- title: Data scientist, CCAO
+  from: 2020
+  to: 2021
+  description: The Cook County Assessor's office faced a corruption scandal. To address it, the office decided to create an all-encompassing reporting infrastructure. I was the lead data scientist of this epic. I created a data pipeline that deals with the office's complex data architecture. Using R, SQL, and markdown, I managed to automatize the reporting process for all geographies, years, and property types there are; as well as current and new data. I was able to produce 126 dynamic 'ratio studies' per year. 378 reports in total. Each report was able to digest new available data and change its presentation accordingly. Assessing the accuracy of the office's work even when data changed.
+
 - title: Student, University of Chicago
   from: 2018
   to: 2019
   description: In 2019 I graduated from the MA Program in the Social Sciences at the University of Chicago. I wrote a thesis about support networks and drug use. I wanted to know who was there when addicts needed emotional support. When they needed a shoulder to cry on. What I found was rather unintuitive. Addicts do not habitually talk to people they consider close people. Not when they need to vent. Indeed, addicts avoid talking about important matters with close people. Specially hurtful matters. Close people can be judgy. Close people can be patronizing. On the contrary, addicts spoke about hurtful matters with distant people. Finding support among unexpected people. The support that distant people can provide is not to be underestimated.
-
-- title: Data scientist, CCAO
-  from: 2020
-  to: 2021
-  description: The Cook County Assessor's office faced a corruption scandal. To address it, the office decided to create an all-encompassing reporting infrastructure. I was the lead data scientist of this epic. I created a data pipeline that deals with the office's complex data architecture. Using R, SQL, and markdown, I managed to automatize the reporting process for geographies, years, and property types there are; as well as current and new data. The report is a 'ratio study' that uses statistical analysis and other visualization tools to assess the accuracy of the office's work.

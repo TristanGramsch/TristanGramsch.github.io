@@ -27,8 +27,8 @@ To show what I find beautiful.
 </p>
 
 <div class="row">
-{% include about/skills.html title="Machine learning" source=site.data.programming-skills %}
-{% include about/skills.html title="Architecture development" source=site.data.management-skills %}
+{% include about/skills.html title="Machine learning" source=site.data.machine-learning %}
+{% include about/skills.html title="Architecture development" source=site.data.architecture-development %}
 </div>
 
 # <span style="text-decoration: underline"> My timeline </span>

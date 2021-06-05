@@ -1,0 +1,15 @@
+- name: Git
+  percentage: 100
+  color: secondary
+
+- name: Project design
+  percentage: 80
+  color: light
+
+- name: Jekyll
+  percentage: 30
+  color: info
+
+- name: Docker
+  percentage: 15
+  color: blue

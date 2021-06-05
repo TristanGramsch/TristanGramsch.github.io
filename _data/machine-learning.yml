@@ -1,0 +1,7 @@
+- name: R
+  percentage: 100
+  color: danger
+
+- name: SQL
+  percentage: 70
+  color: primary
