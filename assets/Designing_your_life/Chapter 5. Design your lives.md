@@ -1,1 +1,1 @@
-Chapter 5. Design your lives - Copy
+If some things call you, you might want to advance them. There are many different tools. Many people try to control time. Controlling stress too. It is easier than you think. Hold your breath high, as if you were in a high risk situation. Like climbing a rock. Free focus right there!

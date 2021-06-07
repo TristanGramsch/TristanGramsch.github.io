@@ -1,10 +1,7 @@
-Chapter 4. Getting unstuck - Copy
-''
 # Get unstuck. Pursue bigger mountains.
 Draw mindmaps.
 Constantly.
-Brainstorm.
-Move on.
+Brainstorm. Erase. Move on.
 Find meaning.
 Create a reason to action.
 
