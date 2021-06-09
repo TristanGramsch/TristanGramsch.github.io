@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Home
-description         : Develop your data architecture. Do machine learning. Become data-driven. 
+description         : Develop your data architecture. Do machine learning. Become data-driven.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : TristanGramsch/Tristan_Gramsch.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -93,3 +93,4 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+  - /assets/documents/design_your_life
