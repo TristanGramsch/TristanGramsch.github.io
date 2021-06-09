@@ -1,10 +1,17 @@
 ---
-title: Drugs are not a monster
+title:
 tags: [Philosophy, Values]
 style: fill
 color: primary
 description: A few words on the world we can build
 ---
+The US healthcare system is a hot mess.
+
+I want to build narratives of trends that people can recognize.  
+If they see themselves reflected in larger social trends, they will have more information to make a decision about it.
+About whether or not to believe what their psychiatrist says.
+People must know the full picture.
+
 Drugs are something people don't understand.
 <br> Few have sat to actually think what drugs are.
 <br> What they can do.
