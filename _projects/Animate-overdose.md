@@ -1,27 +1,12 @@
 ---
-name: NIAS Conference on Studies of Belonging
+name: Animate overdose
 tools: [R]
 image: "/assets/gifs/drug_overdose_animation_region.gif"
-description: Major psychiatry textbooks make questionable claims about the nature of drug addiction. It might be contributing to over prescription in the US.  
+description: A simple R script to animate overdose deaths in the US.   
 ---
 
 <p style = "text-align: justify"> <h2> Here,</h2>
 <font size = "+1">
-I present the argument I made for the 2021 NIAS Conference on Studies of Belonging. I got accepted with the paper "Psychiatric blindspot: how drug addiction diagnosis miss social network factors".
-
-I argue that 3 major psychiatry textbooks make questionable claims about the nature of drug addiction.
-These are: the Diagnostic and Statistical Manual of Mental Disorders (call it DSM-5); the Oxford Handbook of Psychiatry (call it Oxford); and the American Psychiatric Association Publishing Textbook of Psychiatry (call it APA).
-If you study the contents of these handbooks you will note that they have a particular view on family.
-The addict's family is always considered a source of support.
-And not much evidence is provided.
-This type of practice is common in the highly ritualized world of mainstream American addiction treatment.
-"Scripting addiction" by professor Carr narrates this phenomena.
-
-These ideas produce incentives for people to lie for resources they need.
-They might also lead to over estimation.
-As people who have trouble with their families are considered addicts.
-And that leads to prescription.
-Which in turns leads to overdose.
 
 I animate the evolution of overdose deaths in the US from 2015 to 2020. The data was fetched from CDC's
 <a href = "https://data.cdc.gov/NCHS/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a"> open data warehouse. </a>
