@@ -1,17 +1,10 @@
 ---
-title:
+title: Drugs are not a monster
 tags: [Philosophy, Values]
 style: fill
 color: primary
 description: A few words on the world we can build
 ---
-The US healthcare system is a hot mess.
-
-I want to build narratives of trends that people can recognize.  
-If they see themselves reflected in larger social trends, they will have more information to make a decision about it.
-About whether or not to believe what their psychiatrist says.
-People must know the full picture.
-
 Drugs are something people don't understand.
 <br> Few have sat to actually think what drugs are.
 <br> What they can do.
@@ -20,7 +13,7 @@ Drugs are something people don't understand.
 <br> When people consume them.
 <br> Our intention is to solve the overdose epidemic.
 <br> That unfathomably big problem.
-<br> That has as many aspects as people can think of.
+<br> Which has as many aspects as people can think of.
 <br> Let's face that.
 <br> Even though we cannot see it completely clear.
 <br> We know rehab cannot solve the epidemic.
@@ -33,23 +26,32 @@ Drugs are something people don't understand.
 <br> So that we can come with a more intuitive solution
 
 <br> Treating something with such wonder will attract others.
-People might get curious.
-They might want to take a peak at drugs as unproblematic.
-They will understand it better.
-We will understand it better.  
+<br> People might get curious.
+<br> They might want to take a peak at drugs as unproblematic.
+<br> They will understand it better.
+<br> We will understand it better.
 <br> Drugs are not a monster.
-Just chemical structures.
-Well developed institutions treat drugs as if it was a monster.
-Shaming drug users.
-Patronizing people.
-We deserve better.
-We deserve more transparency.
-Better explanations.
-Better data architecture.
-Better repositories.
-Clear accessible knowledge to drugs.
-What they are.
-What they cause.
-Why.
-It's seems the best way to fight the overdose epidemic.
-To fully know the monster.
+<br> Just chemical structures.
+<br> Well developed institutions treat drugs as if it was a monster.
+<br> Shaming drug users.
+<br> Patronizing people.
+<br> We deserve better.
+<br> We deserve more transparency.
+<br> Better explanations.
+<br> Better data architecture.
+<br> Better repositories.
+<br> Clear accessible knowledge to drugs.
+<br> What they are.
+<br> What they cause.
+<br> Why.
+<br> It's seems the best way to fight the overdose epidemic.
+<br> To fully know the monster.
+
+<br> Let's build narratives that people can understand.
+<br> Trends they can recognize.
+<br> People might see themselves reflected in larger social trends.
+<br> They might have better information to make decisions.
+<br> Have more agency.
+<br> Discern whether or not to believe what their psychiatrist says.
+<br> And whether or not to take the drug they give.
+<br> The drug psychiatrist sometimes force.

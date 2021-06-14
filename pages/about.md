@@ -22,7 +22,6 @@ And I have written plenty about social ties among drug users.
 <br>
 Feel free to explore the content of this webpage.
 It is designed to share the things I find interesting.
-To show what I find beautiful.
 </font>
 </p>
 

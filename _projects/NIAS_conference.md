@@ -1,5 +1,5 @@
 ---
-name: Argument presented at NIAS Conference on Studies of Belonging
+name: NIAS Conference on Studies of Belonging
 tools: [R]
 image: "https://www.drugabuse.gov/sites/default/files/images/Benzodiazepines%20and%20Opioids%202.2.jpg"
 description: Major psychiatry textbooks make questionable claims about the nature of drug addiction. It might be contributing to over prescription in the US.  
@@ -58,7 +58,7 @@ Psychiatry textbooks do not support their addiction claims well.
 They might contribute to overprescrition.
 And therefore overdose.
 We need to better regulate what psychiatrists write about.
-The well-being US addicts might depend on it. 
+The well-being US addicts might depend on it.
 
 </font> </p>
 
