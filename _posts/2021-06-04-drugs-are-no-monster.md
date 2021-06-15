@@ -55,3 +55,6 @@ Drugs are something people don't understand.
 <br> Discern whether or not to believe what their psychiatrist says.
 <br> And whether or not to take the drug they give.
 <br> The drug psychiatrist sometimes force.
+
+Sources for overdose data are restricted. Data is hard to get. They give you aggregated data. With which you cannot run thorough analyses.
+Drug taking affects us all. It statistically common to meet people who consume drugs regularly. Opioids like Benzodiazepines. 

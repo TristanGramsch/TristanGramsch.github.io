@@ -1,3 +1,4 @@
+# What is to flow
 To flow is to constantly choose well.
 You can feel good choices.
 Good choices are engaging and energizing.
@@ -22,8 +23,7 @@ I used to be scared my imagine wasn't perfect.
 I see things different now.
 I don't need to look perfect.
 My goal doesn't require me to look perfect.
-My mountain requires other stuff.
-Like commitment.
+It requires commitment.
 And constant progress.
 
 You are in the mountain.
