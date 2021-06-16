@@ -50,6 +50,20 @@ This is a 5000 unique values dataset of overdoses in the US. Most deaths were re
 <div w3-include-html = "/assets/documents/projects_documents/NIAS-presentation.html">
 </div>
 
+<h2> Thoughts </h2>
+<p style = "text-align: justify"><font size = "+1">
+
+Psychiatry textbooks do not show a full picture of what addiction is.
+Addiction tends to happen to those who are white, middle age, male, and uneducated.
+Poor people in despair.
+Broken families do not cause addiction.
+Broken families are common among addicts (I would prefer to call them: 'prone to overdose').
+
+Showcasing this information might lead clinicians to prescribe better.
+And reduce the overprescription crisis
+
+</font> </p>
+
 <h2> Conclusion </h2>
 <p style = "text-align: justify"><font size = "+1">
 
