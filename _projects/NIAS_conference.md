@@ -1,32 +1,35 @@
 ---
-name: NIAS Conference on Studies of Belonging
-tools: [R]
+name: Waset conference on the Sociology of health.
+tools: [R, conference]
 image: "https://www.drugabuse.gov/sites/default/files/images/Benzodiazepines%20and%20Opioids%202.2.jpg"
 description: Major psychiatry textbooks make questionable claims about the nature of drug addiction. It might be contributing to over prescription in the US.  
 ---
 <h2> Here, </h2>
 
 <p style = "text-align: justify"><font size = "+1">
-I present the argument I made for the 2021 NIAS Conference on Studies of Belonging. I got accepted with the paper "Psychiatric blindspot: how drug addiction diagnosis miss social network factors".
+I present the argument I made for the 2021 Waset conference on the Sociology of health and the 2021 NIAS Conference on Studies of Belonging. I got accepted with the paper "Psychiatric blindspot: how drug addiction diagnosis miss social network factors".
 
 I argue that 3 major psychiatry textbooks make questionable considerations about the nature of drug addiction.
 The psychiatry textbooks I am talking about are: the Diagnostic and Statistical Manual of Mental Disorders (call it DSM-5); the Oxford Handbook of Psychiatry (call it Oxford); and the American Psychiatric Association Publishing Textbook of Psychiatry (call it APA).
 These psychiatry textbooks suggest that a conflictive relationship with family members make up ground to diagnose addiction.
 But the suggestion is not thoroughly discussed.
 And convincing evidence is not provided.
+Clinicians read these psychiatry textbooks.
+Some medical certifications even require clinicians to study these psychiatry textbooks.   
+Clinicians then make clinical decisions.
+They can diagnose drug addiction and prescribe medications to their patients.
+Medications like benzodiazepines.
+
 Here is the problem.
-Clinicians read psychiatry textbooks.
-Some medical certifications even require clinicians to study psychiatry textbooks.   
-Psychiatry books influence clinicians.
-Who then make clinical decisions.
-Clinicians might tend to follow the psychiatry procedures.
+Psychiatry textbooks influence clinicians.
+Most likely, clinicians trust and follow psychiatry procedures.
 And thus diagnose addiction to people who have a conflictive relationship with family members.
 An overestimation of what addiction is. <br>
 
 In turn, addiction overestimation can lead to overprescription.
 A big problem in the US.
-Clinicians who read psychiatry textbooks might be more prone to prescribe benzodiazepines.
-A family of sedatives prescribed to mitigate the effects of withdrawal.
+Clinicians might prescribe addiction medication to those who do not need it.
+And contribute to the current overdose crisis.
 
 </font> </p>
 
