@@ -1,5 +1,5 @@
 ---
-name: Waset conference on the Sociology of health.
+name: NIAS Conference on Studies of Belonging. 2021. 
 tools: [R, conference]
 image: "https://www.drugabuse.gov/sites/default/files/images/Benzodiazepines%20and%20Opioids%202.2.jpg"
 description: Major psychiatry textbooks make questionable claims about the nature of drug addiction. It might be contributing to over prescription in the US.  
