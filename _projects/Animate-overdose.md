@@ -4,18 +4,21 @@ tools: [R]
 image: "/assets/gifs/drug_overdose_animation_region.gif"
 description: A simple R script to animate overdose deaths in the US.   
 ---
+<h2> Here,</h2>
 
-<p style = "text-align: justify"> <h2> Here,</h2>
+<p style = "text-align: justify">
 <font size = "+1">
 
 I animate the evolution of overdose deaths in the US from 2015 to 2020. The data was fetched from CDC's
 <a href = "https://data.cdc.gov/NCHS/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a"> open data warehouse. </a>
 Scroll down to check the code I used to produce this.
-<br> <br>
+<br>
+
 Here are the gifs that we produced with the procedure.
 Note that, region wise, overdose deaths do not seem to follow a pattern. We can see how Covid affected mostly southern states. And that, luckily, the Midwest saw their overall overdose deaths decrease. This is not entirely good news. The Ohio state, as shown in the second animation, has had high percentages and total count of overdose deaths during the pandemic.  
 </font>
 </p>
+
 ## Per region animation
 ![](/assets/gifs/drug_overdose_animation_region.gif)
 ## Per state animation
