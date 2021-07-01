@@ -6,7 +6,7 @@ Some might say life design is a tool of capitalism. That it produces greedy prof
 Life design requires time and study.  
 In exchange, life design brings much energy and thrive.  
 It has helped me to flow.
-It can help you flow as well.
+It can help you flow as well. 
 
 # Where are you?
 The first step to life design is to acknowledge where you are.
