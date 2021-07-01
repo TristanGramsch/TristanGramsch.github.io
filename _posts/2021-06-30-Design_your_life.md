@@ -14,7 +14,7 @@ Here we start the journey of designing your life. It is possible. Actually, is n
 <!-- Include Chapter 1 of  -->
 <details>
   <summary> Chapter 1. Start where you are </summary>
-<div w3-include-html = "/assets/documents/design_your_life/Chapter 1. Start where you are.md"></div>
+<div w3-include-html = "/assets/documents/projects_documents/Chapter_1_Start_where_you_are.html"></div>
 </details>
 
 
