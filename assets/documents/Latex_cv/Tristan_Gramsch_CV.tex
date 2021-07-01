@@ -1,10 +1,21 @@
 
 \documentclass{resume} % Use the custom resume.cls style
-
+% Load packages
+\usepackage{hyperref} % Package hyperref allows to create links
 \usepackage[utf8]{inputenc}
 \usepackage[left=0.5 in,top=0.5in,right=0.9 in,bottom=0.5in]{geometry} % Document margins
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+% Define hyperref behavior
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdfpagemode=FullScreen,
+    }
+
 \name{\LARGE{Tristán Ignacio Gramsch Calvo}} % Your name
 \address{Phone (312) 613-0342}
 \address{email: tristangramsch@gmail.com}
@@ -14,14 +25,14 @@
 
 \begin{rSection}{Profile}
 
-I am a data scientist interested in health economics. My area of expertise is drug addiction. I am pursuing job offers in data-driven organizations that do social good. For years, I have studied the dire overdose epidemic in the US. I want to join people who want to put an end to it. 
+I am a data scientist interested in health economics. My area of expertise is drug addiction. I am pursuing job offers in data-driven organizations that do social good. For years, I have studied the dire overdose epidemic in the US. I want to join people who want to put an end to it. You can visit my \href{https://tristangramsch.github.io/}{webpage} to know more about me. 
 
 \end{rSection}
 
 \begin{rSection}{Methodological Training}
 
-Advanced technical skills: R, SQL, Git, Markdown\\
-Intermediate technical skills:  LaTex, MAXQDA, Geoda – Spatial Data\\
+Advanced technical skills: R, SQL, Git, Python\\
+Intermediate technical skills:  Jekyll, HTML, Docker, LaTex, MAXQDA, Geoda – Spatial Data\\
 Relevant Skills: Data architecture; Proficiency in managing productive remote teams; Proficiency in research, data collection and analysis; Human subject experiments; Statistical analysis
 
 \end{rSection}
