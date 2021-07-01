@@ -1,5 +1,5 @@
 ---
-name: NIAS Conference on Studies of Belonging. 2021. 
+name: NIAS Conference on Studies of Belonging. 2021.
 tools: [R, conference]
 image: "https://www.drugabuse.gov/sites/default/files/images/Benzodiazepines%20and%20Opioids%202.2.jpg"
 description: Major psychiatry textbooks make questionable claims about the nature of drug addiction. It might be contributing to over prescription in the US.  
@@ -46,9 +46,8 @@ I made these visualizations based on code by <a href = "https://www.kaggle.com/k
 This is a 5000 unique values dataset of overdoses in the US. Most deaths were recorded in Connecticut.
 
 </font> </p>
-
-<div w3-include-html = "/assets/documents/projects_documents/NIAS-presentation.html">
-</div>
+<!-- Include NIAS-presentation.html -->
+<div w3-include-html = "/assets/documents/projects_documents/NIAS-presentation.html"></div>
 
 <h2> Thoughts </h2>
 <p style = "text-align: justify"><font size = "+1">
@@ -60,7 +59,15 @@ Broken families do not cause addiction.
 Broken families are common among addicts (I would prefer to call them: 'prone to overdose').
 
 Showcasing this information might lead clinicians to prescribe better.
-And reduce the overprescription crisis
+And reduce the overprescription crisis.
+
+Let's build narratives that people can understand.
+Trends they can recognize.
+People might see themselves reflected in larger social trends.
+They might have better information to make decisions.
+Have more agency.
+Discern whether or not to believe what their psychiatrist says.
+And whether or not to take the drug they give.
 
 </font> </p>
 

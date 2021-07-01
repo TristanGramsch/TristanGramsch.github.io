@@ -11,8 +11,5 @@ Gemfile.lock
 # Log Files
 *.log
 
-# Designing your life book notes.
-assets/documents/design_your_life/
-
 # Utility file used by Latex to compile code.
 *.synctex.gz

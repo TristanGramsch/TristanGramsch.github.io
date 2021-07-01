@@ -5,3 +5,7 @@
 - name: SQL
   percentage: 70
   color: primary
+
+- name: Python
+  percentage: 50
+  color: info
