@@ -1,0 +1,18 @@
+# Host a webpage in Gitlab
+## Foreword
+First you need SSG or static site generator. I use Jekyll.
+Gitlab deploys the website from the "public" folder in the repository.
+Gitlab Pages is the server. And using the Gitlab CI-CD tool we deploy the site.
+The CI-CD configuration gives instructions to a runner, an application that runs the specified jobs.
+
+## Tell Gitlab to host a webpage.
+We are going to add installation commands to .gitlab-ci.yml.
+We are telling Gitlab to install bundler. A gem that helps manage other gems. Gems are like packages of stuff that Jekyll can call.
+We install bundler, we use it to install all gems we need. And we build the Jekyll website using those gems.
+Destination public. 
+```
+script:
+  - gem install bundler
+  - bundle install
+  - bundle exec jekyll build
+```

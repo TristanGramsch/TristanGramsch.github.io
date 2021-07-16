@@ -93,4 +93,3 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-  - /assets/documents/design_your_life

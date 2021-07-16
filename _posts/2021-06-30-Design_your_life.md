@@ -11,15 +11,66 @@ Here I want to share my thoughts and notes about a book called "Designing Your L
 
 Here we start the journey of designing your life. It is possible. Actually, is not even that hard. And it might give you a boost. Wherever you are going.
 
-<!-- Include Chapter 1 of  -->
+<!-- Include notes of all chapters  -->
 <details>
   <summary> Chapter 1. Start where you are </summary>
-<div w3-include-html = "/assets/documents/projects_documents/Chapter_1_Start_where_you_are.html"></div>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 1. Start where you are.html"></div>
 </details>
 
+<details>
+  <summary> Chapter 2. Building a compass </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 2. Building a compass.html"></div>
+</details>
 
+<details>
+  <summary> Chapter 3. Wayfinding </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 3. Wayfinding.html"></div>
+</details>
 
+<details>
+  <summary> Chapter 4. Wayfinding </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 4. Getting unstuck.html"></div>
+</details>
 
+<details>
+  <summary> Chapter 5. Design your lives </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 5. Design your lives.html"></div>
+</details>
+
+<details>
+  <summary> Chapter 6. Prototyping </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 6. Prototyping.html"></div>
+</details>
+
+<details>
+  <summary> Chapter 7. How not to get a job </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 7. How to not get a job.html"></div>
+</details>
+
+<details>
+  <summary> Chapter 8. Designing your dream job </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 8. Designing your dream job.html"></div>
+</details>
+
+<details>
+  <summary> Chapter 9. Choosing happiness </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 9. Choosing happiness.html"></div>
+</details>
+
+<details>
+  <summary> Chapter 10. Failure immunity </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 10. Failure immunity.html"></div>
+</details>
+
+<details>
+  <summary> Chapter 11. Building a team </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 11. Building a team.html"></div>
+</details>
+
+<details>
+  <summary> Conclusion: a well-designed life </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Conclusion a well designed life.html"></div>
+</details>
 
 <!---
 Define w3-include- html function.
