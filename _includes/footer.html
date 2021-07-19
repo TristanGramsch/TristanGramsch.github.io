@@ -11,7 +11,12 @@ Then, we use liquid again to include social.html
 
 <footer class="mt-auto py-3 text-center">
 
-	<p style="color:#008FFF"> <strong> Contact me. </strong> </p>
+  <small class="text-muted mb-2">
+    Coded with
+    <a href="{{ theme_repo }}"> {{ theme_name }}</a>
+  </small>
+
+  <p style="color:#008FFF"> <strong> Contact me </strong> </p>
 
   {% include social.html %}
 
