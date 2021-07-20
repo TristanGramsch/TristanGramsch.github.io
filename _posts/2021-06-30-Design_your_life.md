@@ -1,15 +1,19 @@
 ---
 title: Design your life
-tags: [Philosophy, project design]
+tags: [Philosophy, Project design]
 style: fill
 color: primary
 description: Notes on the book 'Designing your life' by Bill Burnet and Dave Evans.  
 ---
 ## A few words on the world one can build
 
-Here I want to share my thoughts and notes about a book called "Designing Your Life: How to Build a Well-Lived, Joyful Life". As time progresses, I will also add other reflections about how to have an exciting life. A worth living life if you will. I am by no means an expert. Not a designer. Not a monk. But I do think that I have a pretty awesome life. And I want to share my wisdom with others. Hopefully help them get more awesome lives.
+<p style="text-align: justify; text-indent: 30px;">
+Here I want to share my thoughts and notes about a book called "Designing Your Life: How to Build a Well-Lived, Joyful Life". As time progresses, I will also add other reflections about how to have an exciting life. A worth living life if you will. I am by no means an expert. Not a designer. Not a monk. But I do think that I have a pretty awesome life. And I want to share what I know with others. Hopefully help them get more awesome lives.
+</p>
 
+<p style="text-align: justify; text-indent: 30px;">
 Here we start the journey of designing your life. It is possible. Actually, is not even that hard. And it might give you a boost. Wherever you are going.
+</p>
 
 <!-- Include notes of all chapters  -->
 <details>
@@ -28,7 +32,7 @@ Here we start the journey of designing your life. It is possible. Actually, is n
 </details>
 
 <details>
-  <summary> Chapter 4. Wayfinding </summary>
+  <summary> Chapter 4. Getting unstuck </summary>
 <div w3-include-html = "\assets\documents\design_your_life_notes\Chapter 4. Getting unstuck.html"></div>
 </details>
 
