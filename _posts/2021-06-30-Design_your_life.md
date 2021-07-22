@@ -76,6 +76,11 @@ Here we start the journey of designing your life. It is possible. Actually, is n
 <div w3-include-html = "\assets\documents\design_your_life_notes\Conclusion a well designed life.html"></div>
 </details>
 
+<details>
+<summary> Notes on 'Atomic Habits' </summary>
+<div w3-include-html = "\assets\documents\design_your_life_notes\Atomic habits.html"> </div>
+</details>
+
 <!---
 Define w3-include- html function.
 Include function in the script.
