@@ -12,27 +12,18 @@ For example: <p style="text-align: justify;">
 <p style="text-align: justify;">
 <span style="background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;">
 <font size="+2">
-Welcome,
+Welcome.
 </font>
 </span>
 </p>
 
 <p style="text-align: justify; text-indent: 30px;">
 <font size="+1">
-I am a data scientist.
-meaning that I do both machine learning and data architecture development,
-This is what I know most about.
-I am also into health economics.
-I know plenty about the overdose epidemic that currently affects the US.
-And I have written plenty about social ties among drug users.
-Feel free to explore the content of this webpage.
-It shows part of my baggage.
-</font>
-</p>
 
-<p style="text-align: justify; text-indent: 30px;">
-<font size="+1">
-These are some of the skills I have. If a measure bar is at 100% it means that it is what I know most about compared to myself. Nobody knows everything about these topics. They constantly evolve, change. As they change, I keep exploring them.  
+This website showcases part of my journey in life. I am a sociologist by education and data scientist by profession. I finished a sociology undergrad in Chile and continued with a Master's in Chicago. As a sociologist, I thoroughly studied drug use and networks of support. In Chicago, I learned to code and got a job as a data scientist at the Cook County Assessor's Office. I had the privilege to work with a great team and a great mentor. My data skills reached a new level. Currently I work at Benchmark Analytics. 
+
+<p>Here are some of my skills. Throughout the way I have been one of my best teachers. </p>
+
 </font>
 </p>
 

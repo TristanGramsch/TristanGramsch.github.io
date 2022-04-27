@@ -2,14 +2,14 @@
   percentage: 100
   color: secondary
 
-- name: Project design
+- name: CLI
   percentage: 80
   color: light
+
+- name: Docker
+  percentage: 50
+  color: blue
 
 - name: Jekyll
   percentage: 30
   color: info
-
-- name: Docker
-  percentage: 15
-  color: blue
