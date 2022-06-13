@@ -9,7 +9,7 @@ remote_theme        : YoussefRaafatNasry/portfolYOU
 ### Plugins ###
 plugins:
   - jemoji
-  - jekyll-katex
+#  - jekyll-katex
 
 
 ### Navbar Settings ###
@@ -97,4 +97,6 @@ exclude:
 
 ### Kramdown tries to apply math transformations using $$ and interferes with katexmm at the GitHub pages ###
 kramdown:
-  math_engine: null
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
