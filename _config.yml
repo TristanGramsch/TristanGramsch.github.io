@@ -94,3 +94,7 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+### Kramdown tries to apply math transformations using $$ and interferes with katexmm at the GitHub pages ###
+kramdown:
+  math_engine: null
