@@ -6,21 +6,6 @@ color: info # Available colors (choose one): primary / secondary / success / dan
 description: What I have learned.   
 katex: true
 ---
-<!-- KaTeX requires the use of the HTML5 doctype. Without it, KaTeX may not render properly -->
-<html>
-  <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.css" integrity="sha384-KiWOvVjnN8qwAZbuQyWDIbfCLFhLXNETzBQjA/92pIowpC0d2O3nppDGQVgwd2nB" crossorigin="anonymous">
-
-    <!-- The loading of KaTeX is deferred to speed up page rendering -->
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.js" integrity="sha384-0fdwu/T/EQMsQlrHCCHoH10pkPLlKA1jL5dFyUOvB3lfeT2540/2g6YgSi2BL14p" crossorigin="anonymous"></script>
-
-    <!-- To automatically render math in text elements, include the auto-render extension: -->
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"
-        onload="renderMathInElement(document.body);"></script>
-  </head>
-</html>
-
-{% katexmm %}
 
 I understand mathematics as the most general description of a process. The generality of mathematics is such that there can be only one description of said process. If I'm correct, statistical learning cannot predict new math equations. In math, there is no training data. In my young career as a data scientist I have only used math as a general framework to understand processes. And natural language to communicate with computers. 
 
@@ -96,4 +81,3 @@ A Neural Network resembles a brain. In its least abstract layer, a brain communi
 
 OpenAI is a deep learning model. It performs multiple operations on a set of predictors to output a token $\hat y_i$. The predictors are the context of $\hat y_i$ and are represented as variables. Tokens represent characters. Those characters form human readable combinations. $\hat y$ are the most probable tokens given the context. 
 
-{% endkatexmm %}
