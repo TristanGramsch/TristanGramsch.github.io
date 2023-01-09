@@ -9,3 +9,4 @@ weight: 4
 * ## Background summary
 ### [CV](/assets/documents/Latex_cv/Tristan_Gramsch_CV.pdf)
 ### [Resume](/assets/documents/Latex_cv/Tristán's Resume.pdf)
+### [Epicness](/assets/images/epicness_log.png)
