@@ -1,13 +1,12 @@
 - title: Data scientist, Benchmark Analytics
   from: 2021
-  to: present
+  to: 2022
   description: "Benchmark Analytics is a fast growing startup that handles law enforcement data. My team creates complex custom reports for our clients."
 
 - title: Data scientist, CCAO
   from: 2020
   to: 2021
-  # You cannot have a multiline plain scalar, such as a colon ":" to be the key to a mapping. A key to the mapping 'description' is the text I wrote. If there is a colon, or another multiline plain scalar you might get a context error.
-  # Quote to fix.
+  # No colons. It's a multiline plain scalar. These paragraphs are called mapings. Colons can't be a 'key' of these mapings. It will produce a context error. Quote to fix.
   description: "The Cook County Assessor's office (CCAO) faced a corruption scandal. To be more transparent, the CCAO decided to create an all-encompassing reporting infrastructure to describe the state of their assessment. I was the lead data scientist of this epic. I created data pipelines to deal with the CCAO's complex data architecture. I dealt with memory issues by running large data manipulations efficiently. And I wrote a user interface using shiny. I managed to automatize the reporting process and create dynamic 'ratio studies' for all parameters we were interested in. In other words, I produced a report for every different set of geographies, years, and property types. It considered new data in the server. 126 reports per year. 378 reports for the years we ran. Reports allowed us to note precisely who we were assessing poorly. Concentrating our efforts in those cases."
 
 - title: Student, University of Chicago

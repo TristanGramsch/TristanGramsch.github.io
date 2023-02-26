@@ -24,12 +24,12 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Tristán Ignacio Gramsch Calvo
   image             : "assets/images/chorizo.JPG"
+  email             : tristangramsch@gmail.com
+  gitlab            : Tristan_Gramsch_Calvo
 #  behance           : your_username
 # dribbble          : your_username
-  email             : tristangramsch@gmail.com
 #  facebook          : Tristan Gramsch
 #  github            : your_username
-  gitlab            : Tristan_Gramsch_Calvo
 # instagram         : your_username
 # kaggle            : your_username
 #  linkedin          : your_username
